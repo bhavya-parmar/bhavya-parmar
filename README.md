@@ -1,4 +1,4 @@
-#👋 Hi, I’m Bhavya!
+# 👋 Hi, I’m Bhavya!
 
 A second-year Computer Science and Engineering student at IIT Gandhinagar, driven by a passion for creativity and technology. I am quite interested in the domain of Machine Learning and Deep Learning. I am also a Graphic Designer and Video Editor, with more than 7 years of experience in this domain. To know more about my designs, visit my Behance portfolio linked below.
 
